@@ -1,6 +1,5 @@
 # Hi there 👋, My name is Miguel
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
 
 Little Bit More About Me
 
