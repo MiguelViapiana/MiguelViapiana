@@ -5,7 +5,7 @@ Little Bit More About Me
 
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Java, Python</p>
+<p>🌱 I'm currently learning C#</p>
 <p>📫 How to reach me? migvjung@gmail.com</p>
 <p>⚡ Fun Fact: i love draw</p>
 
